@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40439873506",
+    "firebase_url": "https://teamalliance-c23d8.firebaseio.com",
+    "project_id": "teamalliance-c23d8",
+    "storage_bucket": "teamalliance-c23d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40439873506:android:cb5c25384d416ecb3243bb",
+        "android_client_info": {
+          "package_name": "com.example.diptejpatel.teamalliance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40439873506-o5j8697dkemoqciatgq6nuk55s9lgbvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBza6odzXT8fU2MldfmW6xrmf0bvY9xlJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40439873506-o5j8697dkemoqciatgq6nuk55s9lgbvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
